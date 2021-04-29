@@ -1,9 +1,9 @@
 ### Hi, I'm Trinity, web developer and aspiring data scientist.
 
 Things I'm proud of:
-Company site for robotics online academy (React.js, Gatsby): https://aurumacademy.gq/
-Proof of concept md -> pptx app (Node.js, jQuery): http://www.texttoslides.tk/ (may take a moment to load)
-RoomBot for Discord (Python3): https://milotrince.github.io/discord-roombot/
+- [Aurum Virtual Academy](https://aurumacademy.gq/), company site for robotics online academy (React.js, Gatsby)
+- [texttoslides](http://www.texttoslides.tk/), a proof of concept md -> pptx web app; may take a moment to load (Node.js, jQuery)
+- [RoomBot for Discord](https://milotrince.github.io/discord-roombot/), a bot that creates temporary channels for multi-purpose management (Python3, SQL)
 
 
 - 🌱 Currently learning R and machine learning
