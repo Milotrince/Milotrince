@@ -1,9 +1,6 @@
-### Hi, I'm Trinity, web developer and aspiring data scientist.
+### Hi, I'm Trinity, fullstack developer and aspiring data scientist.
 
-Things I'm proud of:
-- [Aurum Virtual Academy](https://aurumacademy.gq/), company site for robotics online academy (React.js, Gatsby)
-- [texttoslides](http://www.texttoslides.tk/), a proof of concept md -> pptx web app; may take a moment to load (Node.js, jQuery)
-- [RoomBot for Discord](https://milotrince.github.io/discord-roombot/), a bot that creates temporary channels for multi-purpose management (Python3, SQL)
+My homepage: [trinityjchung.com](https://trinityjchung.com)
 
 Currently I'm:
 - 🌱 Learning R and machine learning
